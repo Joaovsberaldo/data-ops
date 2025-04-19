@@ -1,0 +1,75 @@
+Introdução
+Análise baseada em feedbacks de clientes da caixa de assinatura da Amazon coletados em [Mês/Ano]. O objetivo é identificar pontos fortes e problemas recorrentes para orientar melhorias. Público-alvo: equipes de Produto, Operações e Atendimento.
+    
+Análise
+
+Objetivo da análise: Identificar os problemas críticos e pontos de elogios.
+
+Metodologia, processamento e análise:
+Os dados foram extraídos via API e processados pela equipe de dados. Um LLM resumiu e classificou os feedbacks em quatro tópicos principais: Qualidade do Produto, Entrega, Preço e Atendimento ao Cliente, com subcategorias contextuais. Essas categorias contextualizam a palavra-chave principal, por exemplo: 'usabilidade' está relacionada a 'qualidade do produto' e ajuda a especificar motivo do comentário feito. A análise foi feita sobre a distribuição de avaliações por notas de 1 a 5, os tópicos frequentes e a distribuição de notas por palavra-chave, ou seja, quantas notas entre 1 a 5 o tópico "Qualidade do Produto" recebeu.
+
+Elogios:
+Os principais elogios foram para o atendimento ao cliente e qualidade do produto. Atendimento ao cliente recebeu x% de notas 5 e qualidade do produto recebeu x% de notas 5, os maiores percentuais da lista. Os clientes mencionam que o atendimento foi rápido e eficaz, e que o produto é durável e útil.
+
+Principais críticas:
+Os pontos de melhorias foram direcionados para a qualidade do produto e entrega. A qualidade do produto recebeu x% de notas 1-3 e entrega recebeu x% de notas 1-3, os maiores percentuais da lista. Os clientes mencionam que o produto é {categoria} e que a {categoria} é ruim, levando a danos no produto. Além disso, a {categoria} é demorada e muitas vezes fora do prazo. 
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Resultados
+
+Notas gerais:
+As notas 4 e 5 representam 68% do total de avaliações e notas de 1-3 representam 32% do total de avaliações. Nota-se, que em geral os clientes estão satisfeitos com experiência de compra, mas há espaços para melhorias.
+
+Os dados visuais a seguir mostram a distribuição das notas de avaliação entre os clientes.
+
+../graficos/distribuicao_notas.png
+Legenda: Gráfico de distribuição de avaliações por notas.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Tópicos frequentes:
+- Qualidade do Produto: 77%
+- Entrega: 12%
+- Preço: 8%
+- Atendimento ao cliente: 3%
+
+O gráfico abaixo apresenta a frequência com que cada palavra-chave foi mencionada nos feedbacks.
+
+../graficos/frequencia_palavras.png
+Legenda: Frequência de palavras-chave mencionadas nas avaliações
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+1. Qualidade do Produto é o Principal Fator da Satisfação
+	•	Total de menções: Aproximadamente 58.
+	•	Notas 5 predominam, representando ~50% das menções (visivelmente acima de 25 ocorrências).
+	•	Também há registros de notas 1, 2 e 3, mas em menor escala, indicando que existe uma minoria insatisfeita com a qualidade.
+ 
+2. Preço Gera Polarização de Percepções
+	•	Total de menções: Cerca de 10.
+	•	As avaliações estão divididas entre todas as notas, com destaque para notas 1 e 5.
+	•	Isso mostra que há clientes muito satisfeitos com o preço e outros altamente insatisfeitos.
+
+3. Atendimento ao Cliente: Experiência Inconsistente
+	•	Total de menções: Aproximadamente 7.
+	•	Forte presença de notas 1 e 5, indicando que a experiência está sendo percebida como excelente ou péssima, com pouca neutralidade.
+
+4. Entrega: Boa Percepção com Baixo Volume
+	•	Total de menções: Apenas 1 ou 2, ambas com nota 5.
+	•	Apesar do baixo volume, os poucos comentários foram extremamente positivos.
+
+A seguir, o gráfico mostra a distribuição de notas atribuídas a cada palavra-chave.
+../graficos/distribuicao_notas_por_palavra.png
+Legenda: Distribuição de notas por palavra-chave
+
+Motivos associados às avaliações:
+    - Qualidade do produto: 38% de notas baixas associadas à {} e 62% de notas altas associadas à {}
+    - Preço: 40% de notas baixas associadas à {} e 60% notas altas associadas à {}
+    - Entrega: x% de notas baixas associadas à {} e y% notas altas associadas à
+    - Atendimento ao cliente: x% de notas baixas associadas à {} e y% notas altas associadas à {}
+
+A seguir, o gráfico mostra a distribuição de notas atribuídas a cada categoria.
+../graficos/distribuicao_notas_por_categoria.png
+Legenda: Distribuição de notas por categoria
+

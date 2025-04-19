@@ -1,0 +1,33 @@
+data_ops/
+├── .gitignore
+├── README.md
+├── .env
+├── project_tree.txt
+└── src/
+    ├── main.py
+    ├── modules/
+    │   ├── core.py
+    │   └── utils.py
+    ├── output/
+    │   └── graphics/
+    │       ├── category_distribution.png
+    │       ├── keyword_distribution.png
+    │       └── rating_distribution.png
+    └── prompts/
+        ├── user/
+        │   ├── analyze_graphic.txt
+        │   ├── analyze_summary.txt
+        │   ├── final_analyze.txt
+        │   ├── summary.txt
+        │   └── report.txt
+        ├── system/
+        │   ├── analyze_graphic.txt
+        │   ├── analyze_summary.txt
+        │   ├── final_analyze.txt
+        │   ├── summary.txt
+        │   └── report.txt
+        └── examples/
+            ├── analyze.txt
+            ├── graphic_analyze.txt
+            ├── report.md
+            └── summary.txt

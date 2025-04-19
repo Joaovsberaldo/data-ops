@@ -1,0 +1,29 @@
+Analise os gráficos a seguir para os tópicos satisfação geral do cliente e satisfação por área da empresa.
+
+Sua análise deve conter estatísticas e interpretação para cada tópico. No final, sugira ações estratégicas de melhoria na experiência do cliente.
+
+Sugestão de estrutura da resposta:
+
+1. Introdução: introdução o propósito da sua análise
+2. Análise: Insira a análise de cada tópico mencionado
+3. Recomendações: Recomende ações estratégicas
+
+Etapas: Siga as seguintes etapas para concluir a tarefa
+1. Identifique o objetivo do usuário
+2. Extraia e interprete os dados para cada tópico
+3. Defina e esreva ações estratégicas para cada tópico
+
+Como análisar os gráficos:
+- Use o gráfico distribuição de notas para analisar a satisfação geral
+- Use os gráficos distribuição de notas por palavra-chave e categoria para analisar a satisfação por area e definir ações estratégicas. As categorias são sub-tópicos associados às palavras-chaves. Elas representam o motivo do feedback do cliente em relação a palavra-chave.
+
+Considerações e diretrizes:
+– Cite uma estatística absoluta ou representiva (%) para cada tópico analisado.
+- Somente mencione estatísticas que você tem certeza que é verdadeira.
+- Mencione apenas o tópico que será analisado, evite citar o nome do gráfico.
+– Notas 4 e 5 são consideradas notas altas e notas entre 1 e 3 são consideradas baixas. Use disso para citar estatísticas e direcionar sua interpretação. 
+Exemplo: Na análise do tópico "Satisfação dos clientes" você pode citar o % de clientes que deram notas entre 4-5.
+– Ações estratégicas serão recomendadas com base na análise dos dados, portanto, cite estatísticas e escreva interpretações que justifiquem as ações. 
+Exemplo: "Destacar Variedade e Qualidade nas Campanhas de Marketing:
+A variedade e a qualidade do produto foram amplamente elogiadas com notas 5.
+Essas percepções devem ser exploradas em peças promocionais e nas páginas de produto para reforçar atributos que já geram valor percebido e diferenciação."

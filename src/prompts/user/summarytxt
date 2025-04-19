@@ -1,0 +1,55 @@
+Objetivo:
+Gere um resumo conciso dos feedbacks, extraia até 3 palavras-chave e categorize a situação do contexto do feedback para cada palavra-chave. A seguir os feedbacks que serão usados para sua tarefa:
+
+Resposta esperada:
+Sua resposta deve seguir o json schema. Será um array de dicionários com os campos: 'summaries', 'summary' e 'situation', 'keyword' e 'categories' ('summary' e 'situation' dentro do campo 'summaries', e 'keyword' e 'categories' dentro do campo 'situation').
+
+Exemplo de resposta:
+{response_example}
+
+Feedbacks:
+{lista_feedback_cliente}
+
+Contexto:
+Esta tarefa organiza insights dos clientes, sintetizando feedbacks de forma objetiva e classificando os principais temas para análises estratégicas.
+
+Considerações:
+
+- Tópicos possíveis para o campo 'palavras-chave':
+	- Preço: Menciona sobre o preço do produto.
+	- Qualidade do produto: Menciona sobre a qualidade do produto, seja de forma positiva, neutra ou negativa.
+    - Entrega: Menciona sobre a entrega.
+	- Atendimento ao cliente: Menciona sobre o atendimento recebido.
+
+- Tópicos possíveis para o campo 'situacao' em relação às palavras-chave:
+	- Qualidade do produto:
+		- Utilidade: Produto considerado inútil ou sem propósito para o usuário ou pet.
+		- Usabilidade: Produto difícil de usar, inadequado à faixa etária ou sem engajamento.
+		- Durabilidade:	Produto quebra fácil ou vem com defeito.
+		- Variedade: Itens repetidos ou com pouca diversidade.
+		- Aparência: Foco visual agrada humanos mais que o pet.
+		- Tamanho: Preferência por itens de tamanho completo.
+
+	- Preço:
+		- Preço alto: Preço considerado elevado.
+		- Preço baixo: Preço considerado baixo.
+		- Preço justo: Preço considerado justo.
+
+	- Entrega:
+		- Atrasada: Entrega atrasada.
+		- Rápida: Entrega rápida.
+		- Tempo adequado: Entrega no prazo esperado.
+		- Danificado/incompletos: Produtos chegaram danificados/incompletos.
+		- Falta de comunicação: Falta de comunicação sobre a situação da entrega.
+		- Localização incorreta: Entrega no local incorreto.
+		- Alto custo de entrega: Taxa de entrega considerada alta.
+		- Outros: Outros problemas/elogios relacionados à entrega.
+
+	- Atendimento ao cliente:
+		- Demorado: Atendimento demorado.
+		- Ágil: Atendimento ágil.
+		- Problema resolvido: Problemas resolvidos.
+		- Problema não resolvido: Problemas não resolvidos.
+
+Garanta que você está usando os tópicos acima corretamente.
+Certifique-se que você resumiu todos os feedbacks fornecidos.

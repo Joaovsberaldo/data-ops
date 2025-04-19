@@ -1,0 +1,22 @@
+# Ambientes virtuais
+venv/
+.env/
+__pycache__/
+*.py[cod]
+
+# Configurações de ambiente
+.env*
+
+# Arquivos de log
+*.log
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Notebooks
+*.ipynb

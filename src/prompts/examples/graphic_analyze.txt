@@ -1,0 +1,82 @@
+Introdução dos gráficos
+
+Satisfação geral:
+As notas 4 e 5 representam 68% do total de avaliações e notas de 1-3 representam 32% do total de avaliações. 
+Nota-se, que em geral os clientes estão satisfeitos com experiência de compra, mas há espaços para melhorias.
+
+Os dados visuais a seguir mostram a distribuição das notas de avaliação entre os clientes.
+
+![Gráfico Distribuição de Notas](../graficos/distribuicao_notas.png)
+Legenda: Gráfico distribuição de avaliações por notas.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Tópicos frequentes:
+•   Qualidade do Produto: 77%
+•   Entrega: 12%
+•   Preço: 8%
+•   Atendimento ao cliente: 3%
+
+1. Qualidade do Produto é o Principal Fator da Satisfação
+	•	Total de menções: Aproximadamente 58.
+	•	Notas 5 predominam, representando ~50% das menções (visivelmente acima de 25 ocorrências).
+	•	Também há registros de notas 1, 2 e 3, mas em menor escala, indicando que existe uma minoria insatisfeita com a qualidade.
+ 
+2. Preço Gera Polarização de Percepções
+	•	Total de menções: Cerca de 10.
+	•	As avaliações estão divididas entre todas as notas, com destaque para notas 1 e 5.
+	•	Isso mostra que há clientes muito satisfeitos com o preço e outros altamente insatisfeitos.
+
+3. Atendimento ao Cliente: Experiência Inconsistente
+	•	Total de menções: Aproximadamente 7.
+	•	Forte presença de notas 1 e 5, indicando que a experiência está sendo percebida como excelente ou péssima, com pouca neutralidade.
+
+4. Entrega: Boa Percepção com Baixo Volume
+	•	Total de menções: Apenas 1 ou 2, ambas com nota 5.
+	•	Apesar do baixo volume, os poucos comentários foram extremamente positivos.
+
+A seguir, o gráfico mostra a distribuição de notas atribuídas a cada palavra-chave.
+![Gráfico Distribuição de Notas por Palavra-Chave](../graficos/distribuicao_notas_por_palavra.png)
+Legenda: Distribuição de notas por palavra-chave
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Análise da Distribuição de Notas por Categoria
+
+Este gráfico detalha os principais fatores que influenciam as notas dos clientes, agrupados por categorias específicas mencionadas nos feedbacks.
+
+•   Qualidade do Produto:
+    •   Fatores Positivos: As categorias mais citadas, "Variedade" (~23 menções) e "Utilidade" (~16), estão fortemente ligadas à nota máxima (5.0). Isso demonstra que um catálogo amplo e produtos funcionais são grandes impulsionadores da satisfação geral.
+    •   Fatores Negativos/Mistos: Categorias como "Aparência" (~8), "Durabilidade" (~6), problemas com "Tamanho" (~4) e falhas pontuais em "Usabilidade" (~11) recebem notas mais baixas ou mistas. Estes pontos detalham as causas específicas da insatisfação relacionada à qualidade do produto.
+
+•   Percepção de Preço:
+    •   A menção de "Preço justo" (~7) tende a acompanhar notas mais altas.
+    •   A percepção de "Preço alto" (~4) está associada a notas baixas, ressaltando a importância da relação custo-benefício percebida pelo cliente.
+
+•   Entrega:
+    •   A categoria "Rápida" (~3 menções), associada à velocidade da entrega, está exclusivamente ligada à nota máxima (5.0). Embora pouco frequente, indica que a rapidez é um fator de alta satisfação quando notada.
+
+•   Atendimento ao Cliente:
+    •   Desempenho Positivo: "Ágil" (~2) e "Problema resolvido" (~3) mostram forte correlação com notas altas (4.0 e 5.0), indicando que agilidade e eficácia na solução são muito valorizadas.
+    •   Ponto Crítico: "Problema não resolvido" (~4) é um forte indicador de notas muito baixas (1.0 e 2.0), representando uma falha significativa na experiência do cliente.
+
+Ações Recomendadas:
+•   Produto:
+    •   Alavancar: Destacar a Variedade e Utilidade dos produtos bem avaliados.
+    •   Corrigir: Priorizar a solução de problemas relacionados à Aparência, Durabilidade, Tamanho e Usabilidade que geram avaliações negativas.
+
+•   Entrega:
+    •   Manter/Promover: Sustentar a rapidez na entrega e avaliar comunicá-la como diferencial. Investigar a baixa frequência de menções sobre este tema.
+
+•   Atendimento ao Cliente:
+    •   Otimizar: Focar na agilidade e na capacidade de resolver problemas na primeira interação.
+    •   Priorizar: Identificar e eliminar as causas raiz dos "Problemas não resolvidos" para reduzir a insatisfação.
+
+•   Precificação:
+    •   Comunicar: Trabalhar a comunicação de valor para fortalecer a percepção de "Preço justo".
+    •   Analisar: Avaliar a competitividade e a estrutura de preços para produtos/categorias onde "Preço alto" é um feedback recorrente.
+
+A seguir, o gráfico mostra a distribuição de notas atribuídas a cada categoria.
+
+![Gráfico Distribuição de Notas por Categoria](../graficos/distribuicao_notas_por_categoria.png)
+Legenda: Distribuição de notas por categoria

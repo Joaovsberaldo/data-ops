@@ -1,0 +1,160 @@
+[
+  {
+    "feedback_id": "f03a89ea-66bf-4f16-ac3e-96676ede81ef",
+    "rating": 1.0,
+    "summary": "Produto sem utilidade para o pet, considerado desperdício de dinheiro.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "2be79092-638b-4c40-8792-ebd5c76e8bd1",
+    "rating": 2.0,
+    "summary": "Itens com qualidade ruim, embalagem barata, falta de lista de ingredientes e atendimento não resolvido.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Problema não resolvido"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "fa081d10-028a-4a2a-89c9-658b54650184",
+    "rating": 1.0,
+    "summary": "Pequeno volume dos itens e preço considerado alto, preferência por compra avulsa.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Tamanho"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "86daf6dc-cb40-4b71-82eb-c0ebf60b8ae5",
+    "rating": 5.0,
+    "summary": "Cliente feliz com a assinatura, gosta de todos os produtos inclusos.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "1643b5e2-1c6b-45be-bfff-9ce1c3ff576a",
+    "rating": 5.0,
+    "summary": "Adorou todos os produtos, itens úteis e alguns inesperados.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "f9313b08-2f05-4434-a4db-dd38cfcd5d24",
+    "rating": 5.0,
+    "summary": "Pets apreciavam os brinquedos anteriormente, indicando satisfação passada.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "e360ea84-2352-4637-a99a-9a6c4bbe8b14",
+    "rating": 1.0,
+    "summary": "Produto de baixa qualidade, brinquedos quebram fácil e pet não gosta dos petiscos.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade",
+          "Usabilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "d604784e-be43-4a85-8ec6-37438f043722",
+    "rating": 4.0,
+    "summary": "Boa surpresa com vários itens em tamanho completo, cliente satisfeita.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Tamanho"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "9372f98a-b4ad-4210-b8d2-e3bb0fc3488d",
+    "rating": 5.0,
+    "summary": "Caixa para cães elogiada pela criatividade, qualidade dos produtos e preferência do pet.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "1a7d497a-daa0-4972-a98e-f3c8b42bef04",
+    "rating": 5.0,
+    "summary": "Produto entregue antes do esperado e agradou ao destinatário.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Rápida"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  }
+]

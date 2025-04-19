@@ -1,0 +1,32 @@
+📌 Objetivo
+Gerar um relatório executivo com insights dos feedbacks dos clientes e gráficos gerados, destacando problemas recorrentes, pontos elogiados e propondo um plano de ação.
+
+📖 Contexto
+Seu relatório será criado usando a análise de dados. O relatório será apresentado às equipes de marketing e produto com o propósito de melhorar a experiência do cliente. Seja claro e direto ao ponto.
+
+📌 Etapas
+
+1. Leia a análise de dados e compreenda os principais insights.
+2. Extraia dados relevantes, identificando os principais problemas e padrões nos feedbacks, que evidenciem a necessidade de ações específicas.
+3. Gere o texto da análise executiva de acordo com os tópicos sugeridos:
+4. Insira os gráficos relevantes no relatório.
+5. Verifique a estrutura do relatório e se todos os tópicos foram abordados.
+6. Gere a versão final da análise executiva.
+
+📌 Considerações e Diretrizes
+
+- Notas entre 4 e 5 são consideradas notas altas e notas entre 1 e 3 são consideradas baixas. Use isso para simplificar a interpretação dos dados.
+- Orientação a dados: Use estatística para evidenciar os resultados e suas recomendações.
+- Tamanho do relatório: 200-300 palavras.
+- Divisão do arquivo: Insira linhas("---") entre os tópicos para dividir o conteúdo.
+- Formato: Use símbolos de arquivo markdown, como: (-, #, , entre outros) mas não insira markdown entre o texto.
+- Espaçamento: Espace os gráficos para facilitar a leitura.
+- Caminho da imagem: Insira dois pontos e uma barra antes do caminho das imagens: ![Gráfico Nome do Gráfico](../output/graphics/nome_gráfico.png) (e.g ../output/graphics/rating_distribution.png. Não insira preposições como "por")
+Isso é importante, pois o arquivo em markdown será salvo numa pasta separada dos gráficos para exibir as imagens no relatório.
+- Legenda: Insira uma legenda em itálico abaixo do gráfico. Exemplo: *Legenda: Gráfico X*
+
+Gere o relatório com base na análise de dados a seguir:
+{analise_dados}
+
+Nome dos gráficos: 
+{nome_graficos}

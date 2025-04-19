@@ -1,0 +1,30 @@
+{
+  "summaries": [
+    {
+      "summary": "Produto considerado inútil, os gatos não gostaram dos itens.",
+      "situation": [
+        {
+          "keyword": "Qualidade do produto",
+          "categories": ["Utilidade"]
+        },
+        {
+          "keyword": "Preço",
+          "categories": ["Alto"]
+        }
+      ]
+    },
+    {
+      "summary": "Itens com qualidade e embalagem ruins, dificuldade em contatar o vendedor.",
+      "situation": [
+        {
+          "keyword": "Qualidade do produto",
+          "categories": ["Utilidade"]
+        }, 
+        {
+          "keyword": "Atendimento ao cliente",
+          "categories": ["Não resolvido"]
+        },
+      ]
+    }
+  ]
+}

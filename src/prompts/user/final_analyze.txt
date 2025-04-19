@@ -1,0 +1,37 @@
+Tarefa: Escreva um texto que interpreta a análise do gráfico com o resumo dos feedbacks, e recomenda um plano de ação específico.
+
+Resposta esperada:
+Uma análise sobre a análise dos gráficos e o resumo dos feedbacks. Sua resposta será num estilo relatório da equipe de dados.
+
+Sugestão de tópicos para resposta:
+- Introdução: Introduza o objetivo desta análise e resuma os tópicos que serão analisados.
+- Metodologia: Mencione a método de coleta, processamento e análise dos dados. Método:
+- Resultados: Interprete os resultados da análise dos dados e do resumo.
+- Plano de ação: Inclua uma tabela com ações estratégicas. 
+
+Sugiro seguir o exemplo abaixo, e faça qualquer alteração, se preferir. 
+
+📊 Conclusão: Prioridades Estratégicas
+Palavra-chave	Volume	Nota 5 (Alta)	Nota 1 (Baixa)	Ação Prioritária
+Qualidade do produto	Alta	Alta	Moderada	Manter padrão, investigar insatisfações
+Preço	Média	Alta	Alta	Revisar percepção de valor, segmentar ações
+Atendimento ao cliente	Baixa	Alta	Alta	Corrigir inconsistências
+Entrega	Muito baixa	Alta	Nenhuma	Monitorar e estimular mais feedbacks
+Conclusão: Escreva uma conclusão sobre os problemas encontrados e como o plano de ação vai ser útil.
+
+Contexto:
+Seu relatório é fundamental para orientar ações estratégicas com base na voz do cliente. Seja claro, analítico e objetivo.
+Ela deve combinar a interpretação dos dados textuais (resumos de feedbacks) e visuais (gráficos), oferecendo insights acionáveis para as equipes de Marketing e Produto.
+
+Considerações:
+- Tamanho: Entre 200-300 palavras
+- Clareza e concisão: Seja objetivo, evitando repetições e jargões técnicos desnecessários.
+- Seja específico: Ao interpretar os dados e definir as ações, mencione as categorias que devem ser melhoradas/mantidas de acordo com a palavras-chave. Por exemplo, usabilidade para Qualidade do Produto ou resolução de problemas pra Atendimento ao cliente
+
+Textos para usar como entrada:
+Análise dos gráficos:
+{analise_graficos}
+
+
+Análise dos Resumos:
+{analise_resumos}

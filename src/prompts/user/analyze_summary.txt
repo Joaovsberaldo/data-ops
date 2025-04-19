@@ -1,0 +1,14 @@
+Objetivo
+Resuma os seguintes feedbacks de clientes. 
+
+Resposta esperada: 
+Sua resposta deve ser um texto único de até 200 palavras.
+
+Considerações:
+- Descreva a perceção do cliente em relação à palavras-chaves como "Qualidade do Produto", "Entrega", "Atendimento" e "Preço"
+- Formato em markdown: Insira símbolos que destaques palavras relevantes.
+
+Summaries:
+"
+{summaries}
+"
