@@ -35,17 +35,20 @@ O projeto automatiza diversas etapas do fluxo de análise:
 ```bash
 git clone https://github.com/seu-usuario/data_ops.git
 cd data_ops
+```
 
 2. **Crie e ative o ambiente virtual:**
 ```bash
 python -m venv venv           # `.venv` para ocultar a pasta
 source venv/bin/activate      # Linux/macOS
 venv\Scripts\activate         # Windows
+```
 
 3. **Instale as dependências:**
 
 ```bash
 pip install -r requirements.txt
+```
 
 4. **Configure as variáveis de ambiente:**
 
@@ -58,10 +61,12 @@ Crie um arquivo `.env` na raiz do projeto com suas variáveis.
 
 ```python
 limit = 10
+```
 
 2. **Execute o projeto:**
 ```bash
 python src/main.py
+```
 
 📥 *Entrada:*
 Arquivo .jsonl com feedbacks da Amazon (localizado em `data_ops/data/`)
