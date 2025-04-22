@@ -85,7 +85,7 @@ Relatório em PDF salvo em `output/executive_report.pdf`
 ┃ ┣ 📂 modules/         → Funções reutilizáveis (core, utils, etc.)
 ┃ ┣ 📂 prompts/         → Prompts para agentes (usuário, sistema, exemplos)
 ┃ ┗ 📜 main.py          → Script principal
-┣ 📜 .env               → Variáveis de ambiente
+┣ 📜 requirements.txt   → Dependências
 ┗ 📜 README.md          → Documentação do projeto
 </pre>
 
