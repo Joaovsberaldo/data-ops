@@ -1,0 +1,7 @@
+openai
+pandas
+matplotlib
+markdown2
+weasyprint
+dotenv
+seaborn
