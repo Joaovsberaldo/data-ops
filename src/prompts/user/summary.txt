@@ -5,7 +5,7 @@ Resposta esperada:
 Sua resposta deve seguir o json schema. Será um array de dicionários com os campos: 'summaries', 'summary' e 'situation', 'keyword' e 'categories' ('summary' e 'situation' dentro do campo 'summaries', e 'keyword' e 'categories' dentro do campo 'situation').
 
 Exemplo de resposta:
-{response_example}
+{example}
 
 Feedbacks:
 {lista_feedback_cliente}
