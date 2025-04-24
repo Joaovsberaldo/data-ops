@@ -55,9 +55,9 @@ class FeedbackLoader:
         return cleaned
     
 class FeedbackSummarizer():
-    def __init__(self, input_path: str, client = OpenAI()):
+    def __init__(self, input_path: str, client=None):
         self.input_path = input_path
-        self.client = client
+        self.client = client if client is not None else OpenAI()
         
     def generate_summary(
         self,
