@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv("/.env")
 
 # -------------------- Constantes de Caminhos --------------------
-DATA_DIR = "/data"
+DATA_DIR = "../data"
 OUTPUT_DIR = "output"
 INPUT_DIR = "./output"
 GRAPHICS_DIR = os.path.join(INPUT_DIR, "graphics")
