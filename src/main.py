@@ -44,7 +44,7 @@ def main(limit: int):
     
     summaries = summarizer.generate_summary(
         prompt=summary_prompt,
-        response_example=summary_example,
+        example=summary_example,
         model="gpt-4.1-mini",
         output_path=os.path.join(OUTPUT_DIR, "summary.json")
     )
@@ -59,8 +59,8 @@ def main(limit: int):
         output_path=os.path.join(OUTPUT_DIR, "graphic_analyze.md")
     )
     graphics_analysis = graphic_analyzer.analyze(
-        model="gpt-4.1-mini",
-        prompt=read_text_file(os.path.join(PROMPT_DIR, "analyze.txt")),
+        model="o4-mini",
+        prompt=read_text_file(os.path.join(PROMPT_DIR, "analyze_graphic.txt")),
         system_prompt=read_text_file(os.path.join(SYSTEM_PROMPT_DIR, "analyze_graphic.txt"))
     )
 
@@ -70,7 +70,7 @@ def main(limit: int):
         output_path=os.path.join(OUTPUT_DIR, "summary_analyze.md")
     )
     summaries_analysis = summary_analyzer.analyze(
-        model="gpt-4.1-nano",
+        model="gpt-4.1-mini",
         prompt=read_text_file(os.path.join(PROMPT_DIR, "analyze_summary.txt")),
         system_prompt=read_text_file(os.path.join(SYSTEM_PROMPT_DIR, "analyze_summary.txt"))
     )
@@ -82,7 +82,7 @@ def main(limit: int):
         output_path=os.path.join(OUTPUT_DIR, "data_analyze.md")
     )
     data_analysis = data_analyzer.analyze(
-        model="gpt-4.1-mini",
+        model="o4-mini",
         prompt=read_text_file(os.path.join(PROMPT_DIR, "final_analyze.txt")),
         system_prompt=read_text_file(os.path.join(SYSTEM_PROMPT_DIR, "final_analyze.txt"))
     )
@@ -94,10 +94,10 @@ def main(limit: int):
         output_path=os.path.join(OUTPUT_DIR, "executive_report.pdf")
     )
     report_generator.generate_report(
-        model="gpt-4.1",
+        model="o4-mini",
         prompt=read_text_file(os.path.join(PROMPT_DIR, "report.txt")),
         system_prompt=read_text_file(os.path.join(SYSTEM_PROMPT_DIR, "report.txt"))
     )
 
 if __name__ == "__main__":
-    main(10)
+    main(50)

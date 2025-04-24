@@ -316,7 +316,7 @@ class GraphicAnalyzer:
                 
             # Gera arquivo da resposta final
             elif event.type == 'response.completed':
-                content = event.response.output[0].content[0].text
+                content = event.response.output_text
                 write_text_file(self.output_path, content)
         return content
         
@@ -412,7 +412,7 @@ class DataAnalyzer:
                 
             # Gera arquivo da resposta final
             elif event.type == 'response.completed':
-                content = event.response.output[0].content[0].text
+                content = event.response.output_text
                 write_text_file(self.output_path, content)
         return content
 
@@ -467,7 +467,7 @@ class ReportGenerator:
                 
             # Gera arquivo da resposta final
             elif event.type == 'response.completed':
-                content = event.response.output[0].content[0].text
+                content = event.response.output_text
                 self._write_pdf(content)
         return content
 
