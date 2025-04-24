@@ -9,7 +9,7 @@ import pandas as pd
 from markdown2 import markdown
 from weasyprint import HTML
 from dotenv import load_dotenv
-load_dotenv("../../.env")
+load_dotenv("/.env")
 from modules.utils import(
     read_json_lines,
     load_products,

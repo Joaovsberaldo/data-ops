@@ -11,7 +11,7 @@ from modules.core import(
 from modules.utils import read_text_file
 import os
 from dotenv import load_dotenv
-load_dotenv(".env")
+load_dotenv("/.env")
 
 # -------------------- Constantes de Caminhos --------------------
 DATA_DIR = "/data"
