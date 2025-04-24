@@ -1,0 +1,794 @@
+[
+  {
+    "feedback_id": "3e4c9ede-be2e-4d32-a2bd-fc13a85e74ac",
+    "rating": 1.0,
+    "summary": "Produto considerado inútil e sem aceitação pelos gatos, considerado um desperdício de dinheiro.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "12da2562-9581-4cd3-b69c-654a2a071f19",
+    "rating": 2.0,
+    "summary": "Itens com qualidade baixa e embalagem barata, ausência de lista de ingredientes e dificuldade para contato com o vendedor.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Problema não resolvido"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "aeb731d6-5302-48a0-8d7b-6c5d555d454b",
+    "rating": 1.0,
+    "summary": "Quantidade pequena e preço elevado, preferindo comprar itens avulsos em outro local.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Tamanho"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "58939e6b-6df3-4d82-b80b-23f0bad1c33b",
+    "rating": 5.0,
+    "summary": "Cliente feliz com todos os produtos recebidos, apesar de não lembrar da assinatura anterior.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "8704ffb8-ae42-43a8-8edf-e137333670a8",
+    "rating": 5.0,
+    "summary": "Cliente amou todo o conteúdo, incluindo itens não adquiridos anteriormente.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "f45f2c46-185f-444c-a9d3-58581eea38a0",
+    "rating": 5.0,
+    "summary": "Gatos costumavam gostar dos brinquedos deste box.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "160e5b8c-775b-4882-9604-08bbd1672de2",
+    "rating": 1.0,
+    "summary": "Produto ruim, brinquedos quebraram rápido e os gatos rejeitaram os petiscos.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "63f84cea-e81c-414f-bae6-8df5c53daf6d",
+    "rating": 4.0,
+    "summary": "Vários itens em tamanho real foram uma agradável surpresa e agradaram à cliente.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Tamanho"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "99f51ed6-3ac5-434b-b7b3-2b7714ae295c",
+    "rating": 5.0,
+    "summary": "Caixa diferenciada para cachorros, com criatividade, brinquedos e petiscos de alta qualidade amados pelo cão.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Aparência"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "672f4c47-3e28-4cfe-97a6-fdc02d5e4ad3",
+    "rating": 5.0,
+    "summary": "Camiseta entregue antes do esperado e muito apreciada pelo neto fã de WWE.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Rápida"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "1298b80f-7c90-43f4-ab87-44075c6f69dd",
+    "rating": 5.0,
+    "summary": "Suculentas adoradas como presente, geraram expectativa pela próxima entrega.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "aee9c4b0-62b3-4f2f-8e84-f0f64363612a",
+    "rating": 5.0,
+    "summary": "Produto chegou em perfeitas condições, saudável e sem sujeira.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Tempo adequado"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "c5e3ea43-e638-4aa0-bc9e-d11ace72cf4d",
+    "rating": 3.0,
+    "summary": "Alguns itens agradáveis, mas metade do conteúdo não era de interesse; sugerida opção de controlar o que recebe.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "20f57562-2294-4c47-9368-9581849d61d7",
+    "rating": 5.0,
+    "summary": "Boa seleção equilibrada de snacks saudáveis e recomendados para dieta Paleo.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "3fad15cd-e363-461e-ba11-6cd84b9fe07e",
+    "rating": 3.0,
+    "summary": "Produtos enviados não correspondiam ao exibido na propaganda, cheiro forte desagradável e ausência de itens esperados; resposta confusa do vendedor.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Problema não resolvido"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "14d38781-2e9f-49db-a16a-8bac1554d8ce",
+    "rating": 2.0,
+    "summary": "Brinquedos voltados para apelo humano, pouco interesse dos gatos nos itens, mas cachorros adoram.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Aparência",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "10522360-ffee-445f-b839-d3646adc62fd",
+    "rating": 4.0,
+    "summary": "Presente de Dia dos Pais muito apreciado, com tamanhos grandes disponíveis e estampas desejadas.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Tamanho",
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "9500d613-1786-49c1-b467-f09cb303a65f",
+    "rating": 3.0,
+    "summary": "Avaliação neutra com apenas um 'ok'.",
+    "situation": []
+  },
+  {
+    "feedback_id": "f2e83dd2-d1a0-4744-bbdf-be0fc8f6cb96",
+    "rating": 3.0,
+    "summary": "Avaliação neutra breve com 'ok'.",
+    "situation": []
+  },
+  {
+    "feedback_id": "87d90e94-a02e-4fd5-b6df-f46c9da16859",
+    "rating": 1.0,
+    "summary": "Enviaram caixa do mês passado com oferta inválida, preço do site inferior e qualidade das ervas duvidosa.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Falha na entrega"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "81d6b84e-4fb3-4aef-b6e9-404e12abcc8d",
+    "rating": 1.0,
+    "summary": "Produto considerado caro com brinquedos frágeis; atendimento negligente quanto ao cancelamento.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Problema não resolvido"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "3ae2ec2d-680e-4b59-a19b-2ea1137ff4ef",
+    "rating": 2.0,
+    "summary": "Inicialmente satisfeito com valor, tamanho e variedade dos produtos; porém último mês apresentou poucos itens completos e embalagem frágil, apesar de atendimento rápido e atencioso.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Tamanho",
+          "Durabilidade",
+          "Aparência"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Ágil",
+          "Problema resolvido"
+        ]
+      },
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Tempo adequado"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "78cf599e-cb7d-474a-8cec-6f5730615128",
+    "rating": 5.0,
+    "summary": "Produto divertido, porém sem grande destaque.",
+    "situation": []
+  },
+  {
+    "feedback_id": "d45246ad-f568-45f1-b831-44e64544fb12",
+    "rating": 4.0,
+    "summary": "Assinaturas majoritariamente boas, porém algumas caixas apresentam conteúdo não adequado para a faixa etária.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Usabilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "d91d9833-6966-4b00-984b-6f52f4735e2b",
+    "rating": 5.0,
+    "summary": "Excelente atendimento ao cliente que resolveu problema de envio equivocado rapidamente e sem custos adicionais; produtos bem feitos e com designs adoráveis.",
+    "situation": [
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Ágil",
+          "Problema resolvido"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "15292119-86f2-4b0f-8102-afa3d5260418",
+    "rating": 5.0,
+    "summary": "Máscaras faciais agradáveis e preço bom.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "8123d7a5-acf8-4500-96c6-08ec3a284230",
+    "rating": 3.0,
+    "summary": "Apesar de algumas coisas não relacionadas a beleza, apresentação da caixa é boa e cliente dará mais uma chance.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "3e1dad53-aec5-4b57-9139-e880f0543f2d",
+    "rating": 4.0,
+    "summary": "Produto chegou rapidamente e cachorro gostou, porém preço promocional era adequado, preço cheio demasiado para manter assinatura.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Rápida"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "6354ab6e-3e1c-49a1-9904-8fc0009e9c9b",
+    "rating": 4.0,
+    "summary": "Recebeu muitos filmes, podendo doar os que não usa, considerando preço justo versus ir ao cinema.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "0ce3029a-4bcf-4664-ad01-1e13143b0201",
+    "rating": 5.0,
+    "summary": "Assinatura de brinquedos feita pensando na praticidade e controle de gastos familiares.",
+    "situation": []
+  },
+  {
+    "feedback_id": "6154cdad-d8bf-4a97-92ed-0388d4477522",
+    "rating": 4.0,
+    "summary": "Satisfação com variedade e preço dos instrumentos de unhas; demora para receber a primeira caixa.",
+    "situation": [
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Atrasada"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "98fefd1a-7591-45f5-b533-9fbd0a23c44f",
+    "rating": 5.0,
+    "summary": "Assinatura muito apreciada por qualidade de brinquedos e petiscos, mas restrita devido a orçamento.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "b0398cf0-d16d-4c65-b65a-a45c3787a122",
+    "rating": 5.0,
+    "summary": "Cliente e criança se divertiram montando brinquedo, satisfeitos com a assinatura inicial.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "791165fe-d046-43e8-be0a-7b73334761a8",
+    "rating": 4.0,
+    "summary": "Gato adorou os itens, valor individual dos itens parece superior ao custo da caixa; renovação será reavaliada.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Preço justo"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "2163a9a0-9cc9-4581-9cf6-b82c0dbaf0d7",
+    "rating": 5.0,
+    "summary": "Máscaras faciais úteis para eventos sociais como noite de garotas.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "c811542a-da85-4fb9-9066-e38d2849e425",
+    "rating": 5.0,
+    "summary": "Presente que surpreendeu positivamente pelo valor e variedade, levando a recompras e indicações.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "077f2ff7-e2de-4e05-9d70-cd72ef42029f",
+    "rating": 3.0,
+    "summary": "Itens com temática infantil pouco interessantes para adolescentes; comunicação genérica do vendedor; embalagem vulnerável causando riscos de perda do presente.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Usabilidade",
+          "Variedade"
+        ]
+      },
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Problema não resolvido"
+        ]
+      },
+      {
+        "keyword": "Entrega",
+        "categories": [
+          "Falta de comunicação",
+          "Danificado/incompletos"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "a0068566-5ee2-4cf3-9d50-f02bff738fc7",
+    "rating": 5.0,
+    "summary": "Atividades para crianças que parecem ter bom custo-benefício e envolvimento, com expectativas de uso prolongado.",
+    "situation": [
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço justo"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Usabilidade",
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "8ca1ddf6-0449-4371-b37f-dcdcde104346",
+    "rating": 5.0,
+    "summary": "Mesmos projetos entregues para diferentes idades, causando insatisfação por nível inadequado.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Usabilidade",
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "ae1a9bae-0cab-4c20-832b-cb0b1ca566f9",
+    "rating": 1.0,
+    "summary": "Produto entregue não corresponde à descrição, faltam materiais básicos; baixo custo-benefício; insatisfação com valor e conteúdo.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade",
+          "Variedade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "0b4d0d9f-966a-40e8-b977-a0cc61c73b33",
+    "rating": 2.0,
+    "summary": "Argila e cola recebidos considerados de baixa qualidade, insatisfação persistente e descontinuação da assinatura.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Durabilidade",
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "c0cab1f2-1389-45aa-8d37-d419a8b13378",
+    "rating": 2.0,
+    "summary": "Produtos nunca apreciados pelos gatos, avaliação negativa quanto ao custo.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      },
+      {
+        "keyword": "Preço",
+        "categories": [
+          "Preço alto"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "35b388e7-efc4-446a-9bce-dcf4c788765e",
+    "rating": 5.0,
+    "summary": "Cliente satisfeita com a qualidade dos produtos da caixa de beleza.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "88c81801-48b0-47e9-b5b9-946bec79e801",
+    "rating": 3.0,
+    "summary": "Experiência divertida, porém os snacks pareciam repetitivos e as descrições pouco informativas.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Variedade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "beffd909-f81e-434e-845c-906b718996f1",
+    "rating": 5.0,
+    "summary": "Cliente gosta muito da caixa de beleza, apreciando a descoberta de novos produtos.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "fe605fc4-166c-4186-8346-ed49b4f7d398",
+    "rating": 5.0,
+    "summary": "Assinatura de petiscos para cachorro é uma ótima forma de experimentar produtos e descobrir favoritos, evitando destruição em casa.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "d22450e2-b3ef-4790-8a16-7e60b3b19128",
+    "rating": 5.0,
+    "summary": "Os biscoitos da assinatura são muito apreciados, e seria bom ter mais brinquedos do tipo favorito da cadela.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "dfd30127-5439-4835-b484-21c21385558f",
+    "rating": 5.0,
+    "summary": "Assinatura de brinquedos e petiscos considerada excelente e agradou bastante.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "7c266806-2f6a-46a5-9a92-1664d540f631",
+    "rating": 4.0,
+    "summary": "Atendimento excepcional, descoberta de novos produtos, compatibilidade com dieta keto e experiência positiva.",
+    "situation": [
+      {
+        "keyword": "Atendimento ao cliente",
+        "categories": [
+          "Ágil",
+          "Problema resolvido"
+        ]
+      },
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  },
+  {
+    "feedback_id": "0c25725c-7918-41e2-8a31-e68fd97be8d1",
+    "rating": 1.0,
+    "summary": "Petiscos de excelente qualidade e bom custo-benefício, porém causaram reações adversas em alguns cães, levando à devolução.",
+    "situation": [
+      {
+        "keyword": "Qualidade do produto",
+        "categories": [
+          "Utilidade"
+        ]
+      }
+    ]
+  }
+]

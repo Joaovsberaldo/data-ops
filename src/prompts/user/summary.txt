@@ -1,5 +1,5 @@
 Objetivo:
-Gere um resumo conciso dos feedbacks, extraia até 3 palavras-chave e categorize a situação do contexto do feedback para cada palavra-chave. A seguir os feedbacks que serão usados para sua tarefa:
+Gere um resumo conciso dos feedbacks, extraia até 3 palavras-chave e categorize a situação que melhor descreve à palavra-chave.
 
 Resposta esperada:
 Sua resposta deve seguir o json schema. Será um array de dicionários com os campos: 'summaries', 'summary' e 'situation', 'keyword' e 'categories' ('summary' e 'situation' dentro do campo 'summaries', e 'keyword' e 'categories' dentro do campo 'situation').
@@ -7,21 +7,20 @@ Sua resposta deve seguir o json schema. Será um array de dicionários com os ca
 Exemplo de resposta:
 {example}
 
-Feedbacks:
+Use os seguintes feedbacks para executar sua tarefa:
 {lista_feedback_cliente}
 
 Contexto:
 Esta tarefa organiza insights dos clientes, sintetizando feedbacks de forma objetiva e classificando os principais temas para análises estratégicas.
 
 Considerações:
-
-- Tópicos possíveis para o campo 'palavras-chave':
+- Tópicos possíveis para o campo 'keywords':
 	- Preço: Menciona sobre o preço do produto.
 	- Qualidade do produto: Menciona sobre a qualidade do produto, seja de forma positiva, neutra ou negativa.
     - Entrega: Menciona sobre a entrega.
 	- Atendimento ao cliente: Menciona sobre o atendimento recebido.
 
-- Tópicos possíveis para o campo 'situacao' em relação às palavras-chave:
+- Tópicos possíveis para o campo 'situation' em relação às palavras-chave:
 	- Qualidade do produto:
 		- Utilidade: Produto considerado inútil ou sem propósito para o usuário ou pet.
 		- Usabilidade: Produto difícil de usar, inadequado à faixa etária ou sem engajamento.
@@ -52,4 +51,5 @@ Considerações:
 		- Problema não resolvido: Problemas não resolvidos.
 
 Garanta que você está usando os tópicos acima corretamente.
-Certifique-se que você resumiu todos os feedbacks fornecidos.
+Certifique-se que você resumiu todos os feedbacks da lista fornecida.
+Garanta que cada situação deve estar associada à somente uma palavra chave e uma palavra-chave pode ter mais de uma situação.
