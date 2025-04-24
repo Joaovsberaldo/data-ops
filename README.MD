@@ -1,97 +1,97 @@
-# 📊 DataOps – Agentes para Análise de Feedbacks da Amazon
+# 📊 DataOps – Agents for Analyzing Amazon Customer Feedback
 
-**DataOps** é um conjunto de agentes desenvolvidos para **automatizar a análise de feedbacks de clientes da Amazon**. O projeto utiliza dados reais em formato `.jsonl` e tem como foco transformar texto bruto em **insights acionáveis** para equipes de dados, produto, marketing e experiência do cliente.
-
----
-
-## ✅ Problemas que resolvemos
-
-O projeto automatiza diversas etapas do fluxo de análise:
-
-- 🧹 Extração e tratamento de dados  
-- 📖 Interpretação de textos com modelos de linguagem  
-- 📊 Geração de gráficos  
-- 📈 Análise automatizada dos dados  
-- 📝 Criação de relatórios executivos em PDF  
-
-**Benefícios principais:**  
-- Economia de tempo e esforço manual  
-- Suporte à tomada de decisão  
-- Acesso rápido a insights estratégicos  
+**DataOps** is a set of agents developed to **automate the analysis of Amazon customer feedback**. The project uses real-world data in `.jsonl` format and focuses on turning raw text into **actionable insights** for data, product, marketing, and customer experience teams.
 
 ---
 
-## 🚀 Como instalar e rodar o projeto
+## ✅ Problems We Solve
 
-### ✅ Pré-requisitos
+The project automates several stages of the feedback analysis workflow:
 
-- Python 3.8 ou superior  
-- `virtualenv` (ou similar)
+- 🧹 Data extraction and cleaning  
+- 📖 Text interpretation using language models  
+- 📊 Chart generation  
+- 📈 Automated data analysis  
+- 📝 Executive report creation in PDF format  
 
-### 🧪 Passo a passo
+**Key benefits:**  
+- Saves time and manual effort  
+- Supports decision-making  
+- Provides quick access to strategic insights  
 
-1. **Clone o repositório:**
+---
+
+## 🚀 How to Install and Run the Project
+
+### ✅ Requirements
+
+- Python 3.8 or higher  
+- `virtualenv` (or equivalent)
+
+### 🧪 Step-by-step
+
+1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/seu-usuario/data_ops.git
+git clone https://github.com/your-username/data_ops.git
 cd data_ops
 ```
 
-2. **Crie e ative o ambiente virtual:**
+2. **Create and activate a virtual environment:**
 ```bash
 python -m venv venv           # `.venv` para ocultar a pasta
 source venv/bin/activate      # Linux/macOS
 venv\Scripts\activate         # Windows
 ```
 
-3. **Instale as dependências:**
+3. **Install the dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Configure as variáveis de ambiente:**
+4. **Configure environment variables:**
 
-Crie um arquivo `.env` na raiz do projeto com suas variáveis.
+Create a .env file in the project root and add your custom settings.
 
 ---
 
-### ▶️ Como usar
-1. **Defina o número de feedbacks que deseja analisar ajustando o parâmetro limit no código:**
+### ▶️ How to Use
+1. **Set the number of feedback entries to analyze by adjusting the limit parameter in the code:**
 
 ```python
 limit = 10
 ```
 
-2. **Execute o projeto:**
+2. **Run the project:**
 ```bash
 python src/main.py
 ```
 
-📥 *Entrada:*
-Arquivo .jsonl com feedbacks da Amazon (localizado em `data_ops/data/`)
+📥 **Input:**
+A .jsonl file with Amazon customer feedback (located in data_ops/data/)
 
-📤 *Saída:*
-Relatório em PDF salvo em `output/executive_report.pdf`
+📤 **Saída:**
+A PDF report saved to output/executive_report.pdf
 
 ---
 
-## 🧱 Estrutura do projeto
+## 🧱 Project Structure
 <pre> 
 📦 data_ops/
-┣ 📂 data/              → Dados de entrada (.jsonl)
-┣ 📂 output/            → Resultados gerados (gráficos, relatórios etc.)
-┣ 📂 src/               → Código-fonte principal
-┃ ┣ 📂 modules/         → Funções reutilizáveis (core, utils, etc.)
-┃ ┣ 📂 prompts/         → Prompts para agentes (usuário, sistema, exemplos)
-┃ ┗ 📜 main.py          → Script principal
-┣ 📜 requirements.txt   → Dependências
-┗ 📜 README.md          → Documentação do projeto
+┣ 📂 data/              → Input data (.jsonl)
+┣ 📂 output/            → Generated results (charts, reports, etc.)
+┣ 📂 src/               → Main source code
+┃ ┣ 📂 modules/         → Reusable functions (core, utils, etc.)
+┃ ┣ 📂 prompts/         → Agent prompts (user, system, examples)
+┃ ┗ 📜 main.py          → Main script
+┣ 📜 requirements.txt   → Project dependencies
+┗ 📜 README.md          → Project documentation
 </pre>
 
 ---
 
-## 📌 Próximos passos
-🔍 Agente Analista de Dados:
-Adicionar um agente que consulta diretamente um banco de dados para análises.
-Essa melhoria é essencial para ambientes corporativos com dados armazenados em sistemas relacionais.
+## 📌 Next Steps
+🔍 Data Analyst Agent:
+Add an agent that queries a database directly for analysis.
+This improvement is essential for enterprise environments where data is stored in relational systems.
