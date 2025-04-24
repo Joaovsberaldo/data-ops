@@ -1,6 +1,6 @@
-# 📊 DataOps – Agents for Analyzing Amazon Customer Feedback
+# 📊 DataOps – LLMs orchestration for Analyzing Amazon Customer Feedback
 
-**DataOps** is a set of agents developed to **automate the analysis of Amazon customer feedback**. The project uses real-world data in `.jsonl` format and focuses on turning raw text into **actionable insights** for data, product, marketing, and customer experience teams.
+**DataOps** is a set of LLMs calls developed to **automate the analysis of Amazon customer feedback**. The project uses real-world data in `.jsonl` format and focuses on turning raw text into **actionable insights** for data, product, marketing, and customer experience teams.
 
 ---
 
