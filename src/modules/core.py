@@ -296,7 +296,9 @@ class GraphicAnalyzer:
         ]
           
         response = self.client.responses.create(
-            model=model, 
+            model=model,
+            reasoning={"effort": "medium"},
+            max_output_tokens=3000,
             input=[
                 {"role": "developer", "content": system_prompt},
                 {"role": "user", "content": [{"type": "input_text", "text": prompt}] + input_images}
@@ -393,6 +395,8 @@ class DataAnalyzer:
         # Envia requisição para modelo
         response = self.client.responses.create(
             model=model,
+            reasoning={"effort": "medium"},
+            max_output_tokens=3000,
             input=[
                 {"role": "developer", "content": system_prompt},
                 {"role": "user", "content": prompt}
@@ -448,6 +452,8 @@ class ReportGenerator:
         # Enviar requisição para modelo
         response = self.client.responses.create(
             model=model,
+            reasoning={"effort": "medium"},
+            max_output_tokens=8000,
             input=[
                 {"role": "developer", "content": system_prompt},
                 {"role": "user", "content": [{"type": "input_text", "text": prompt}] + input_images}
