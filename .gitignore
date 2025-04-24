@@ -20,3 +20,6 @@ Thumbs.db
 
 # Notebooks
 *.ipynb
+
+# Scripts locais
+scripts/atualizar_repositorio.sh
